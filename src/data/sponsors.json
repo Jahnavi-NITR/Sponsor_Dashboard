@@ -1,0 +1,93 @@
+[
+  {
+    "id": 1,
+    "name": "BlockDAG",
+    "industry": "Blockchain",
+    "tier": "platinum",
+    "amount": 50000
+  },
+  {
+    "id": 2,
+    "name": "Orkes",
+    "industry": "DevTools",
+    "tier": "platinum",
+    "amount": 47000
+  },
+  {
+    "id": 3,
+    "name": "Akash Network",
+    "industry": "Cloud",
+    "tier": "platinum",
+    "amount": 38000
+  },
+  {
+    "id": 4,
+    "name": "ETHIndia",
+    "industry": "Web3",
+    "tier": "gold",
+    "amount": 22000
+  },
+  {
+    "id": 5,
+    "name": "Devfolio",
+    "industry": "Developer",
+    "tier": "gold",
+    "amount": 19000
+  },
+  {
+    "id": 6,
+    "name": "LLMWare",
+    "industry": "AI",
+    "tier": "gold",
+    "amount": 15000
+  },
+  {
+    "id": 7,
+    "name": "GoFr",
+    "industry": "DevTools",
+    "tier": "silver",
+    "amount": 10000
+  },
+  {
+    "id": 8,
+    "name": "Endless Domains",
+    "industry": "Web3",
+    "tier": "bronze",
+    "amount": 8000
+  },
+  {
+    "id": 9,
+    "name": "PrepVerse",
+    "industry": "EdTech",
+    "tier": "bronze",
+    "amount": 7500
+  },
+  {
+    "id": 10,
+    "name": "Wolfram",
+    "industry": "Computing",
+    "tier": "in-kind",
+    "amount": 3000
+  },
+  {
+    "id": 11,
+    "name": "Balsamiq",
+    "industry": "Design",
+    "tier": "in-kind",
+    "amount": 3500
+  },
+  {
+    "id": 12,
+    "name": "Postman",
+    "industry": "API",
+    "tier": "in-kind",
+    "amount": 4000
+  },
+  {
+    "id": 13,
+    "name": "Threeway Studio",
+    "industry": "Design",
+    "tier": "in-kind",
+    "amount": 2200
+  }
+]
