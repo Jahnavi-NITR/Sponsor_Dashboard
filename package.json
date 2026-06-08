@@ -1,6 +1,5 @@
 {
   "name": "sponsor-dashboard",
-  "homepage": "https://Jahnavi-NITR.github.io/Sponsor_Dashboard",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -9,8 +8,7 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
+
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.3.0",
